@@ -108,5 +108,13 @@
 	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/LWJGL 3.1.3/JAR/steamworks4j-1.6.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/LWJGL 3.1.3/JAR/steamworks4j-1.6.2-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/LWJGL 3.1.3/JAR/steamworks4j-1.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/ibxm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/lwjgl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/natives-windows.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Craig/Source/GitHub/L3G37VD_ENGINE-JAVA-/Dependencies/SLICK-UTIL/lib/slick-util.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
